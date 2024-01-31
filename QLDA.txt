@@ -1,2 +1,36 @@
-P1 push     
-chocuong
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Trang web bán giày</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    
+    h1 {
+      color: #333;
+    }
+    
+    p {
+      color: #666;
+      font-size: 18px;
+    }
+    
+    .btn {
+      display: inline-block;
+      background-color: #f44336;
+      color: #fff;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 4px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Trang web bán giày</h1>
+  <p>Chào mừng bạn đến với trang web bán giày da chất lượng cao. Chúng tôi mang đến cho bạn những đôi giày phong cách, thoải mái và đa dạng về mẫu mã. Khám phá hàng ngàn sản phẩm từ các thương hiệu nổi tiếng và có mức giá phải chăng.</p>
+  <a href="danhmuc.html" class="btn">Xem sản phẩm</a>
+</body>
+</html>
