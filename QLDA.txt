@@ -29,7 +29,7 @@
   </style>
 </head>
 <body>
-  <h1>Trang web bán giày dép</h1>
+  <h1>Trang web bán giày dép da</h1>
   <p>Chào mừng bạn đến với trang web bán giày da chất lượng cao. Chúng tôi mang đến cho bạn những đôi giày phong cách, thoải mái và đa dạng về mẫu mã. Khám phá hàng ngàn sản phẩm từ các thương hiệu nổi tiếng và có mức giá phải chăng.</p>
   <a href="danhmuc.html" class="btn">Xem sản phẩm</a>
 </body>
